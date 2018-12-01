@@ -1,3 +1,3 @@
 # Hexapod
-A six-legged walking robot
-Since a robot can be statically stable on three or more legs, a hexapod robot has a great deal of flexibility in how it can move.
+A six-legged walking robot.
+If legs become disabled, the robot may still be able to walk. Furthermore, not all of the robot's legs are needed for stability; other legs are free to reach new foot placements or manipulate a payload. 
